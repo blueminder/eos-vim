@@ -18,7 +18,7 @@ Otherwise, if you don't care to install gems on your workstation:
     cd ~
     ln -s /path/to/eos-vim/vimrc .vimrc
     ln -s /path/to/eos-vim/vim .vim
-                                                                                      i
+
 ## Updating Bundles
 
 I use [pathogen](http://www.vim.org/scripts/script.php?script_id=2332) to manage my plugins so that they can be separated nicely into folders under the .vim/bundles directory. I use a configuration similar to Tammer Saleh's which is described [here](http://tammersaleh.com/posts/the-modern-vim-config-with-pathogen), inclusing his update_bundles script written in ruby.
